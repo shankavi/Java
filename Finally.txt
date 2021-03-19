@@ -1,0 +1,10 @@
+		
+		Finally Block
+		
+	1. Try
+	2. Catch
+	3. Finally
+		
+	This Finally block of code which will get executed even if the exception occurs or not. 
+	
+	This Block will contain codes like closing connections of DBs,Buffers,Streams etc.

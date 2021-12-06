@@ -5,7 +5,7 @@ public class BankAccount {
 	
 	//long accountNumber; -primitive data type
 	
-	Long accountNum = 1234567890l; // wrapper class // l mention as long data type
+	Long accountNum = 1234567000; // wrapper class // l mention as long data type
 	
 	String holderName = "T Shankavi";
 	

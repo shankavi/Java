@@ -9,6 +9,8 @@ public class Child extends Parent{
 	//if we use extend key words that time super method is created silently	
 		
 		System.out.println("I'm Child");
+		System.out.println("I'm Child");
+		
 	}
 
 	public static void main(String[] args) {
